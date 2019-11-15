@@ -1,0 +1,6 @@
+framework module NFAToolkit {
+  umbrella header "NFAToolkit-umbrella.h"
+
+  export *
+  module * { export * }
+}

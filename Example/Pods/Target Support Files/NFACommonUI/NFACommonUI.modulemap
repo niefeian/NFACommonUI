@@ -1,0 +1,6 @@
+framework module NFACommonUI {
+  umbrella header "NFACommonUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
